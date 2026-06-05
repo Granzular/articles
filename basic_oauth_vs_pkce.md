@@ -1,4 +1,3 @@
-````markdown
 # OAuth 2.0 vs OAuth 2.0 + PKCE (A Practical Comparison)
 
 ## Introduction
@@ -295,5 +294,3 @@ No changes required to:
 # Conclusion
 
 OAuth 2.0 with PKCE is not a replacement for OAuth but an extension that strengthens the Authorization Code Flow, especially for public clients. Modern systems often combine PKCE with client secrets to achieve layered security.
-```
-````
